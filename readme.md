@@ -1,50 +1,39 @@
+## Dasturxon
+Consolidate all dining establishments into a single platform, enabling customers to place orders from any restaurant. Through this program, users can conveniently order food from a variety of eateries. Additionally, they have the option to schedule orders ahead of time, ensuring timely delivery of their desired meals.
 
 
+![App Screenshot](https://i.postimg.cc/KcL6NgXK/photo-2023-02-25-17-22-06.jpg)
 
-## Test
-sail artisan test --testsuite=Feature
+## Some Features:
 
-## License
+- Advanced Restaurant System
+- Full restaurant statistics
+- Free and Paid Restaurant Membership
+- Food online orders and delivery
+- Cuisines, Menus, Invoices, Reviews, Statistics, ...
+- Membership System
+- Multi-Languages system.
+- Full administration you manage with it every single thing on the script.
+- Users can also register using social media accounts (support: facebook, and google).
+- OTP Authorization
+- SMTP Email system.
+- Geo-location (Google maps)
+- Beautiful HTML5 and Animations with fully responsive design
+- Cross-Browser
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## ENV
-SHOW_DEMO_CREDENTIALS=true
-DB_CONNECTION=mysql
-DB_HOST=mysql
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=laravel
-DB_PASSWORD=laravel
+![App Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/86/3f/a6863f97-7faf-b9da-22d1-8ab64a9a5a6b/19ec8d4a-f64e-4f5c-944d-a214d912d9bf_image_2023-02-28_19-45-57.png/643x0w.jpg)
 
+## Usage for restaurants
 
-MAIL_MAILER=smtp
-MAIL_HOST=mailhog
-MAIL_PORT=1025
-MAIL_USERNAME=null
-MAIL_PASSWORD=null
-MAIL_ENCRYPTION=
-MAIL_FROM_ADDRESS='test@example.com'
-MAIL_FROM_NAME='App Demo'
+In this video tutorial, you will learn how to add and change menu items in!
+ - https://youtu.be/5lhY88_1Yiw
+In this video, you'll learn how to set up your restaurant settings!
+ - https://youtu.be/W7cdlJMJrI8
 
-## Updates
+## 
 
-git diff --name-only 49b736c231b1de9ae4ecdce31307960a9d13b087 0abba369fa214151892283d938f8e58dacabd592 > .diff-files.txt && npm run zipupdate
+ https://appadvice.com/app/dasturxon/6445809138
 
-COMPOSER_MEMORY_LIMIT=-1 composer require */**
-
-## Clearing cache
-sail artisan cache:clear
-ddcache
-sail artisan config:cache
-sail artisan config:clear
-sail artisan route:clear
-sail artisan config:cache
-sail artisan route:cache
-sail artisan optimize
-
-## Create new module
-sail artisan module:make Module
-
-## Default .env
-[.env](https://paste.laravel.io/2fe670c7-f66b-443e-9e79-b5fa6618360b)
+ 
+![App Screenshot](https://i.postimg.cc/dtYzStv5/photo-2023-02-25-17-22-05.jpg)
