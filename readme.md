@@ -13,12 +13,12 @@ Consolidate all dining establishments into a single platform, enabling customers
 - Cuisines, Menus, Invoices, Reviews, Statistics, ...
 - Membership System
 - Multi-Languages system.
-- Full administration you manage with it every single thing on the script.
-- Users can also register using social media accounts (support: facebook, and google).
+- Full administration you manage every single thing on the script.
+- Users can also register using social media accounts (support: Facebook, and Google).
 - OTP Authorization
 - SMTP Email system.
-- Geo-location (Google maps)
-- Beautiful HTML5 and Animations with fully responsive design
+- Geo-location (Google Maps)
+- Beautiful HTML5 and Animations with a fully responsive design
 - Cross-Browser
 
 
@@ -26,10 +26,10 @@ Consolidate all dining establishments into a single platform, enabling customers
 
 ## Usage for restaurants
 
-In this video tutorial, you will learn how to add and change menu items in!
  - https://youtu.be/5lhY88_1Yiw
-In this video, you'll learn how to set up your restaurant settings!
+In this video tutorial, you will learn how to add and change menu items! 
  - https://youtu.be/W7cdlJMJrI8
+In this video, you'll learn how to set up your restaurant settings!
 
 ## 
 
